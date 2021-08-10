@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\koval\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\koval\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Kiss Day.394232009.00" t="ExcludeRecursive" />
+    <e p="E:\Games Unity\Kiss Day" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CodeMonkey" t="Include">
+          <e p="Assets.cs" t="Include" />
+          <e p="CMDebug.cs" t="Include" />
+          <e p="README.txt" t="Include" />
+          <e p="Utils" t="Include">
+            <e p="Button_Sprite.cs" t="Include" />
+            <e p="Button_UI.cs" t="Include" />
+            <e p="ComponentActions.cs" t="Include" />
+            <e p="FunctionPeriodic.cs" t="Include" />
+            <e p="FunctionTimer.cs" t="Include" />
+            <e p="FunctionUpdater.cs" t="Include" />
+            <e p="UI_Bar.cs" t="Include" />
+            <e p="UI_BarMultiple.cs" t="Include" />
+            <e p="UI_Sprite.cs" t="Include" />
+            <e p="UI_TextComplex.cs" t="Include" />
+            <e p="UtilsClass.cs" t="Include" />
+            <e p="World_Bar.cs" t="Include" />
+            <e p="World_Sprite.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Bird.cs" t="Include" />
+          <e p="GameAssets.cs" t="Include" />
+          <e p="GameHandler.cs" t="Include" />
+          <e p="GameOverWindow.cs" t="Include" />
+          <e p="Level.cs" t="Include" />
+          <e p="Loader.cs" t="Include" />
+          <e p="LoaderUpdate.cs" t="Include" />
+          <e p="MainMenuWindow.cs" t="Include" />
+          <e p="Score.cs" t="Include" />
+          <e p="ScoreWindow.cs" t="Include" />
+          <e p="ShopMenuWindow.cs" t="Include" />
+          <e p="SoundManager.cs" t="Include" />
+          <e p="WaitingToStart.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Kiss Day.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
